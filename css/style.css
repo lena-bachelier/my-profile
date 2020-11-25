@@ -1,0 +1,79 @@
+body{
+    
+    background: white;
+    color:white;
+    text-align: center;
+     
+}
+
+h1{
+    color: darkblue;
+}
+
+h2{
+    color: skyblue;
+}
+
+h1, h2{
+  font-family: "Helvetica", sans-serif;
+}
+/* Custom design with class (99% of your design) */
+.container{
+    width: 700px;
+    margin: 40px auto;
+}
+    
+.card-white1{
+    background-color: skyblue;
+    padding: 60px;
+    margin: 50px;
+    box-shadow: 0px 10px 30px blue;
+    border-radius: 4px;
+}
+
+
+
+.card-white2{
+    background-color: darkblue;
+    padding: 20px;
+    margin: 10px;
+    box-shadow: 0px 10px 30px blue;
+    border-radius: 4px;
+}
+
+
+.card-white3{
+    background-color: darkblue;
+    padding: 20px;
+    margin: 10px;
+    box-shadow: 0px 10px 30px blue;
+    border-radius: 4px;
+}
+
+.img-circle{
+    border-radius: 50%;
+}
+
+.btn-blue{
+    background-color: cadetblue;
+    color: white;
+    padding: 15px 20px;
+    border-radius: 4px;
+}
+
+.btn-blue:hover{
+    background-color: white;
+    color: white;
+}
+
+.list-inline{
+    list-style: none;
+    padding-left: 0px;
+}
+
+.list-inline li{
+    display: inline;
+    padding: 10px;
+}
+
+
